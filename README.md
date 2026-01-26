@@ -27,7 +27,7 @@ The system was developed to solve a real institutional problem:
 
 ## 🌐 Web Interface
 
-![Web Interface Screenshot](./assets/web_ui.png)
+![Web Interface Screenshot](https://github.com/MdAsif-Hossain/EWU-AI-Engine-Policy-Assistant/blob/main/Screenshot%202026-01-26%20220440.png)
 
 ---
 
