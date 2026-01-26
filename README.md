@@ -21,7 +21,7 @@ The system was developed to solve a real institutional problem:
 
 ## 🖼️ System Workflow
 
-![System Workflow](./assets/workflow.png)
+![System Workflow](https://github.com/MdAsif-Hossain/EWU-AI-Engine-Policy-Assistant/blob/main/workflow.png)
 
 ---
 
